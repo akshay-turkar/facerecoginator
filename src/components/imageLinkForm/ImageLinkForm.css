@@ -1,0 +1,34 @@
+.text-1{
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.input-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.input-feild{
+    padding: 12px;
+    width: 400px;
+    border: 2px solid #1e6254;
+    background: #36b09871 ;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+
+.button{
+    width: 150px;
+    margin-left: 10px;
+    border: 2px solid #1e6254;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2px;
+    background: linear-gradient(to right, #43C6AC, #2a8976);
+    color: #F8FFAE;
+    padding: 12px;
+    margin-top: 10px;
+}
+

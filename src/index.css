@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  background: #43C6AC;
+  background: -webkit-linear-gradient(to right, #43C6AC, #F8FFAE);
+  background: linear-gradient(to right, #43C6AC, #F8FFAE);
+
+}
+
+.button-p{
+  cursor: pointer;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+.font-style{
+  font-family: 'Courier New', Courier, monospace;
+}

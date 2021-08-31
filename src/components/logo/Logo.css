@@ -1,0 +1,10 @@
+.tilt{
+    height: 125px;
+    width: 125px;
+    background: #3cc3a8;
+    border: 2px solid #1e6254;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
